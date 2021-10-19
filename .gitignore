@@ -1,0 +1,12 @@
+**/target
+**/*.rs.bk
+**/config/**/*.yaml
+*.svg
+kubeconfig.yaml
+*.pem
+**/*.csv
+**/*.zip
+**/*.gz
+.DS_Store
+
+data/*
